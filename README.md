@@ -8,6 +8,8 @@ ENTER YOUR NAME, YOUR GAME NAME, AND GAME URL <strong> AS AN OBJECT: </strong> <
 
 
 <H1> GROUP 2 </H1>
+<p> Janet Martinez - Futbol Mania - https://jm-2017.github.io/urban-carnival-nuExample/ </p>
+
 
 
 <H1> GROUP 3 </H1>
