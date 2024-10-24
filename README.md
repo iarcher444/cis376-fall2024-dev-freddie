@@ -4,7 +4,7 @@
 <h1> <strong> ONCE YOU SEE THIS: </strong>
 FIND YOUR GROUP, <STRONG> FOR EACH GROUP MEMBER </STRONG> ENTER YOUR NAME, YOUR GAME NAME, AND GAME URL <strong> AS AN OBJECT: </strong> </h1>
 
- *** let <strong>*name</STRONG>Game = {gameName: "NAME OF YOUR GAME", gameURL: "YOUR URL HERE", gameAuthor: "AUTHOR NAME HERE"}; ***
+<h3> let <strong>name</STRONG>Game = {gameName: "NAME OF YOUR GAME", gameURL: "YOUR URL HERE", gameAuthor: "AUTHOR NAME HERE"}; </h3>
 <H1> GROUP 1 </H1>
 
 
