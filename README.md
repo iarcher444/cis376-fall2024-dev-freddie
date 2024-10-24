@@ -9,8 +9,8 @@ read and loaded a js data object {}
 to list one game from everyone in the class. 
 </--> 
 
-ONCE YOU SEE THIS:
-<h2> ENTER YOUR NAME, YOUR GAME NAME, AND GAME URL AS AN OBJECT: </h2>
+<h1> <strong> ONCE YOU SEE THIS: </strong>
+ENTER YOUR NAME, YOUR GAME NAME, AND GAME URL <strong> AS AN OBJECT: </strong> </h1>
 
 <H1> GROUP 1 </H1>
 
