@@ -14,6 +14,7 @@ FIND YOUR GROUP, <STRONG> FOR EACH GROUP MEMBER </STRONG> ENTER YOUR NAME, YOUR 
 
 
 <H4> GROUP 3 </H4>
+<p>let joshuaGame = {gameName: "Escape Room", gameURL: "https://joshuabrad03.github.io/scaling-octo-david/", gameAuthor: "Joshua Bradley"};</p>
 
 
 <H4> GROUP 4 </H4>
