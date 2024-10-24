@@ -36,4 +36,6 @@ ENTER YOUR NAME, YOUR GAME NAME, AND GAME URL <strong> AS AN OBJECT: </strong> <
 <H1> GROUP 8 </H1>
 <p>Spongebob V Doodlebob</p>
 <p>Alex Nunley</p>
-
+<p>David V Goliath</p>
+<p>Nick Germann</p>
+<p>url: </p>
