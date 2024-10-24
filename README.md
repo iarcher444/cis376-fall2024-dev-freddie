@@ -33,4 +33,4 @@ Whit Brewer, UFO Game, https://whitb43.github.io/UFO-Escape/
 <H4> GROUP 8 </H4>
 <p><b>pongebob V Doodlebob</b> by Alex https://a-nunley.github.io/dev-david/</p>
 {gameName: "David V Goliath", gameURL: "(https://germannnick.github.io/Dev-David-Goliath/)", gameAuthor: "Nick Germann"};
-<p> tuesdGame = {gameName: "Find the Surprise!", gameURL: "https://tuesdayannb.github.io/miniature-enigma-david/", gameAuthor: "Tuesday Brown"}; </p>
+<p> let tuesdayGame = {gameName: "Find the Surprise!", gameURL: "https://tuesdayannb.github.io/miniature-enigma-david/", gameAuthor: "Tuesday Brown"}; </p>
