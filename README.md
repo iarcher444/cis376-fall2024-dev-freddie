@@ -31,7 +31,5 @@ Jodi Gambrell, Circle Game, https://jomlli709.github.io/octo-goggles-david-hw/
 
 <H4> GROUP 8 </H4>
 <p><b>pongebob V Doodlebob</b> by Alex https://a-nunley.github.io/dev-david/</p>
-<p>David V Goliath</p>
-<p>Nick Germann</p>
-<p>url: </p>
+{gameName: "David V Goliath", gameURL: "[YOUR URL HERE](https://germannnick.github.io/Dev-David-Goliath/)", gameAuthor: "Nick Germann"};
 <p><b>Find the Surprise!</b> by Tuesday https://tuesdayannb.github.io/miniature-enigma-david/</p>
