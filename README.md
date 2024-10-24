@@ -21,6 +21,7 @@ FIND YOUR GROUP, <STRONG> FOR EACH GROUP MEMBER </STRONG> ENTER YOUR NAME, YOUR 
 Jodi Gambrell, Circle Game, https://jomlli709.github.io/octo-goggles-david-hw/
 Noah Brown, Shooting Star, https://nbrown2002.github.io/Dev-David/
 Whit Brewer, UFO Game, https://whitb43.github.io/UFO-Escape/
+Shun Sasaki,
 
 <H4> GROUP 5 </H4>
 
