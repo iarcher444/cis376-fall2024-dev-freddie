@@ -1,13 +1,5 @@
 # cis376-fall2024-dev-freddie
-Class Repository for Dr. Cumbie's Fall 2024 Dev Freddie Assignment
-<!-->In groups of 4 (yes, you have to be in a group) done
-self-sign up via CNVS > People > dev-freddie groups done
-Create a new REPO + APP 
-That is a "game center" 
-That dynamically creates the front end html "view"
-read and loaded a js data object {}
-to list one game from everyone in the class. 
-</--> 
+
 
 <h1> <strong> ONCE YOU SEE THIS: </strong>
 ENTER YOUR NAME, YOUR GAME NAME, AND GAME URL <strong> AS AN OBJECT: </strong> </h1>
