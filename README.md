@@ -6,7 +6,7 @@ FIND YOUR GROUP, <STRONG> FOR EACH GROUP MEMBER </STRONG> ENTER YOUR NAME, YOUR 
 
 <h3> let <strong>(YOUR NAME GOES HERE)</STRONG>Game = {gameName: "NAME OF YOUR GAME", gameURL: "YOUR URL HERE", gameAuthor: "AUTHOR NAME HERE"}; </h3>
 <H4> GROUP 1 </H4>
-
+<p> baileeGame = {gameName: "Escape the Garden", gameURL: "https://baileestrait.github.io/dev-david-lab/", gameAuthor: "Bailee Strait"}; </p>
 
 <H4> GROUP 2 </H4>
 <p> Janet Martinez - Futbol Mania - https://jm-2017.github.io/urban-carnival-nuExample/ </p>
