@@ -27,7 +27,8 @@ Jodi Gambrell, Circle Game, https://jomlli709.github.io/octo-goggles-david-hw/
 
 
 <H4> GROUP 7 </H4>
-
+<p>Name:Allison Lacy Game Name:Square Game URL: </p>
+<a href="https://allisonlacy.github.io/alligamerepo/">My Game</a>
 
 <H4> GROUP 8 </H4>
 <p><b>pongebob V Doodlebob</b> by Alex https://a-nunley.github.io/dev-david/</p>
