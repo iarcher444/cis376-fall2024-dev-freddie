@@ -15,6 +15,11 @@ FIND YOUR GROUP, <STRONG> FOR EACH GROUP MEMBER </STRONG> ENTER YOUR NAME, YOUR 
 
 
 <H4> GROUP 3 </H4>
+<p>  masonGame = {
+     gameName: "colorName", 
+     gameURL: "https://mlsmason6.github.io/improved-computing-machine-colorName/", 
+     gameAuthor: "Mason Schrader"
+}</p>
 <p>let joshuaGame = {gameName = "Escape Room", gameURL: "https://joshuabrad03.github.io/scaling-octo-david/", gameAuthor = "Joshua Bradley"}</p>
 <p>let evanGame = {gameName = "Meh Game", gameURL: "https://mrspartan38.github.io/dev-david-hw/", gameAuthor = "Evan Sager"}</p>
 
