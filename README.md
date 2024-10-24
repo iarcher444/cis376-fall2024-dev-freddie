@@ -16,6 +16,7 @@ FIND YOUR GROUP, <STRONG> FOR EACH GROUP MEMBER </STRONG> ENTER YOUR NAME, YOUR 
 
 <H4> GROUP 3 </H4>
 <p>let joshuaGame = {gameName = "Escape Room", gameURL: "https://joshuabrad03.github.io/scaling-octo-david/", gameAuthor = "Joshua Bradley"}</p>
+<p>let evanGame = {gameName = "Meh Game", gameURL: "https://mrspartan38.github.io/dev-david-hw/", gameAuthor = "Evan Sager"}</p>
 
 <H4> GROUP 4 </H4>
 Jodi Gambrell, Circle Game, https://jomlli709.github.io/octo-goggles-david-hw/
