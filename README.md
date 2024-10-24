@@ -10,7 +10,7 @@ to list one game from everyone in the class.
 </--> 
 
 ONCE YOU SEE THIS:
-<h2> ENTER YOUR NAME, YOUR GAME NAME, AND GAME URL 
+<h2> ENTER YOUR NAME, YOUR GAME NAME, AND GAME URL AS AN OBJECT: </h2>
 
 <H1> GROUP 1 </H1>
 
