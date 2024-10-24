@@ -10,7 +10,7 @@ FIND YOUR GROUP, <STRONG> FOR EACH GROUP MEMBER </STRONG> ENTER YOUR NAME, YOUR 
 <p> jacksonGame = {gameName: "Vroom", gameURL: "https://jaxn-harvey.github.io/dev-david/", gameAuthor: "Jackson Harvey"}; </p>
 
 <H4> GROUP 2 </H4>
-<p> Janet Martinez - Futbol Mania - https://jm-2017.github.io/urban-carnival-nuExample/ </p>
+<p>{gameName: "Futbol Mania", gameURL: "https://jm-2017.github.io/urban-carnival-nuExample/", gameAuthor: "Janet Martinez"}; </p>
 
 
 
