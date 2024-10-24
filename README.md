@@ -34,6 +34,6 @@ Shun Sasaki,
 <a href="https://allisonlacy.github.io/alligamerepo/">My Game</a>
 
 <H4> GROUP 8 </H4>
-<p><b>pongebob V Doodlebob</b> by Alex https://a-nunley.github.io/dev-david/</p>
+<p>let alexGame = {gameName: "Spongebob vs Doodlebob", gameURL: "https://a-nunley.github.io/dev-david/", gameAuthor: "Alex Nunley"};</p>
 <p> let nickGame = {gameName: "David V Goliath", gameURL: "(https://germannnick.github.io/Dev-David-Goliath/)", gameAuthor: "Nick Germann"}; </p>
 <p> let tuesdayGame = {gameName: "Find the Surprise!", gameURL: "https://tuesdayannb.github.io/miniature-enigma-david/", gameAuthor: "Tuesday Brown"}; </p>
