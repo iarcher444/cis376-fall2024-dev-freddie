@@ -30,4 +30,4 @@ ENTER YOUR NAME, YOUR GAME NAME, AND GAME URL <strong> AS AN OBJECT: </strong> <
 <p>David V Goliath</p>
 <p>Nick Germann</p>
 <p>url: </p>
-<p><b>Find the Surprise!</b> by Tuesday https://a-nunley.github.io/dev-david/](https://tuesdayannb.github.io/miniature-enigma-david/</p>
+<p><b>Find the Surprise!</b> by Tuesday https://tuesdayannb.github.io/miniature-enigma-david/</p>
