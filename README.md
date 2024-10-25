@@ -43,3 +43,4 @@ FIND YOUR GROUP, <STRONG> FOR EACH GROUP MEMBER </STRONG> ENTER YOUR NAME, YOUR 
 <p>let alexGame = {gameName: "Spongebob vs Doodlebob", gameURL: "https://a-nunley.github.io/dev-david/", gameAuthor: "Alex Nunley"};</p>
 <p> let nickGame = {gameName: "David V Goliath", gameURL: "(https://germannnick.github.io/Dev-David-Goliath/)", gameAuthor: "Nick Germann"}; </p>
 <p> let tuesdayGame = {gameName: "Find the Surprise!", gameURL: "https://tuesdayannb.github.io/miniature-enigma-david/", gameAuthor: "Tuesday Brown"}; </p>
+<p> ParidhiGame = {gameName: "Wow Game", gameURL: "https://pmalhotra21.github.io/wow-game/", gameAuthor: "Paridhi Malhotra"}; </p>
