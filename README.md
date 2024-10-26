@@ -33,7 +33,7 @@ FIND YOUR GROUP, <STRONG> FOR EACH GROUP MEMBER </STRONG> ENTER YOUR NAME, YOUR 
 
 
 <H4> GROUP 6 </H4>
-
+<p>kethanGame = {gameName: "Rock-Paper-Scissors", gameURL: "https://kethanpilla.github.io/dev-freddie-hw/", gameAuthor: "Kethan Pilla"};</p>
 
 <H4> GROUP 7 </H4>
 <p>Name:Allison Lacy Game Name:Square Game URL: </p>
